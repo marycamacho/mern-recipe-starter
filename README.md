@@ -8,6 +8,8 @@ Instructions:
 1. Ensure mongo server is installed locally.
 2. Create local directory or git repo with read me and clone to local.
 3. If this repo is cloned on local - just copy all files to the new repo and push/create in master.
+4. Edit the mongo-connection.js file with correct URL
+5. Update packages.json with correct name, license, version, repo, issues URL, etc.
 
 
 Notes:
