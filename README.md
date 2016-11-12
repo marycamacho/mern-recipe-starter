@@ -12,7 +12,11 @@ Instructions:
 
 Notes:
 
-Eventually want to have this include a git command for pulling without creating a repo so that it can be used to locally to push and create a new master app repo.
+* Eventually want to have this include a git command for pulling without creating a repo so that it can be used to locally to push and create a new master app repo.
+* The dev directory is a working dir that's contains the compiled code for running locally. There is a structure in the webpack for a dist directory that would contain the same compiled code (probably minified) for running in a test or production environment.
+* Test directory is a framework for unit testing the componenets in a headless way. New tests can be added.
+
+
 
 Create Notes:
 
