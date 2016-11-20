@@ -10,6 +10,10 @@ Instructions:
 3. If this repo is cloned on local - just copy all files to the new repo and push/create in master.
 4. Edit the mongo-connection.js file with correct URL
 5. Update packages.json with correct name, license, version, repo, issues URL, etc.
+6. Ensure Mongod is running, run Mongo on Windows and Run NPM Start
+7. Create App in Oauth.io and update config with new codes (will work without change - but when ready to deploy should have own credentials
+8. Create Domain/App in SendGrid and update config as necessary - again... eventually should use own credentials.
+9.
 
 
 Notes:
